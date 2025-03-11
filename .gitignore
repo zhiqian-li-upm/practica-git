@@ -53,5 +53,7 @@ dependency-reduced-pom.xml
 # Built Visual Studio Code Extensions
 *.vsix
 
+*sandbox
+
 README.html
 application.properties
